@@ -1,5 +1,5 @@
 # Responsive Portfolio Template HTML & CSS <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/225px-HTML5_logo_and_wordmark.svg.png" alt="HTML Logo" width="30" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png" alt="CSS3 Logo" width="30" />
-This is a **responsive HTML & CSS template** that can be easily customized. You can use this template for free and edit it to fit your needs.
+This is a **Responsive Portfolio Template in HTML & CSS** that can be easily customized. You can use this template for free and edit it to fit your needs.
 
 ## Usage
 
