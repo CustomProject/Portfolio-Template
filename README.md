@@ -20,5 +20,4 @@ If you have any questions or suggestions, feel free to contact me!
 3. Open the `index.html` file in your browser.
 
 ## Credit
-Template design by **Custom Projects (custom)**.
-Images used in this project are created using **Bing AI**.
+Template design by **Custom Projects (custom)**.<br>Images used in this project are created using **Bing AI**.
