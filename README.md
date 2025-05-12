@@ -5,7 +5,6 @@ This is a **responsive HTML & CSS template** that can be easily customized. You 
 
 - You are free to use this project for **personal or commercial** purposes.
 - You can **modify** and **redistribute** it without any restrictions.
-- **No permission is required** for use, but please credit the original author.
 
 If you have any questions or suggestions, feel free to contact me!
 
